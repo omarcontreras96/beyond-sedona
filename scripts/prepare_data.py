@@ -1,6 +1,7 @@
 from pathlib import Path
 import csv,json,re,hashlib
-ROOT=Path(__file__).resolve().parents[1]; OUT=ROOT/'dist/data'; OUT.mkdir(exist_ok=True)
+ROOT=Path(__file__).resolve().parents[1]; OUT=ROOT/'research/processed'; OUT.mkdir(parents=True,exist_ok=True)
+WEB=ROOT/'dist/data'; WEB.mkdir(parents=True,exist_ok=True)
 DATE='2026-09-22'
 urls={'vis2024':'https://in.nau.edu/wp-content/uploads/sites/212/State-Parks-2024-1.pdf','vis2025':'https://in.nau.edu/wp-content/uploads/sites/212/State-Parks-2025-2.pdf','economics':'https://extension.arizona.edu/sites/default/files/2026-06/ASP-2025-Economic-Impact-Report_05152026.pdf','residents':'https://www.sedonaaz.gov/home/showpublisheddocument/53237/638718401613770000','lodging':'https://www.sedonaaz.gov/home/showpublisheddocument/55452/639015695406600000'}
 # 2025 rows transcribed from the public research PDF's indexed text; annual totals independently cross-checked against the economic report, Table 2.
@@ -54,7 +55,7 @@ def csvwrite(name,records):
  with (OUT/name).open('w',newline='') as f:
   w=csv.DictWriter(f,fieldnames=list(records[0]));w.writeheader();w.writerows(records)
 csvwrite('park-visitation.csv',rows);csvwrite('visitor-spending.csv',spendrows);csvwrite('resident-feedback.csv',residents);csvwrite('hotel-context.csv',lodging)
-(OUT/'site-data.json').write_text(json.dumps({'retrieved':DATE,'parks':parks,'residents':residents,'lodging':lodging,'sources':urls},indent=2))
+(WEB/'site-data.json').write_text(json.dumps({'retrieved':DATE,'parks':parks,'residents':residents,'lodging':lodging,'sources':urls},indent=2))
 print('Validated',len(rows),'monthly observations,',len(spendrows),'spending observations')
 for p in parks:
  a=p['visits'][2025];b=p['visits'][2024]
