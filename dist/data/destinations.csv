@@ -1,0 +1,7 @@
+park_id,park,community,role,experience,official_url,current_hours,verified_driving_minutes,carrying_capacity,candidate_town_hotel_capacity,candidate_town_resident_sentiment,retrieved_utc
+slide,Slide Rock State Park,Sedona area,Reference,Water & outdoors,https://azstateparks.com/slide-rock,consult official page,not collected,not verified,not verified,not collected,2026-09-22
+red,Red Rock State Park,Sedona area,Reference,Nature & trails,https://azstateparks.com/red-rock,consult official page,not collected,not verified,not verified,not collected,2026-09-22
+dead,Dead Horse Ranch State Park,Cottonwood,Candidate,Nature & trails,https://azstateparks.com/dead-horse,consult official page,not collected,not verified,not verified,not collected,2026-09-22
+jerome,Jerome State Historic Park,Jerome,Candidate,History & culture,https://azstateparks.com/jerome,daily 09:00-16:30; holiday exceptions,not collected,not verified,not verified,not collected,2026-09-22
+fort,Fort Verde State Historic Park,Camp Verde,Candidate,History & culture,https://azstateparks.com/fort-verde,daily 09:00-16:30; holiday exceptions,not collected,not verified,not verified,not collected,2026-09-22
+rockin,Rockin' River Ranch State Park,Camp Verde,Candidate,Nature & trails,https://azstateparks.com/rockin-river/,Fri-Sun 09:00-17:00; last entry 16:00,not collected,not verified,not verified,not collected,2026-09-22

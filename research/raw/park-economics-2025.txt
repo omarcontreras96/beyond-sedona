@@ -1,0 +1,2046 @@
+2025 Economic Contributions & Impacts
+        of Arizona State Parks
+
+
+
+
+              Dari Duval and Claudia Montanía
+         University of Arizona Cooperative Extension
+
+                         June 2026
+
+
+
+                                                       1
+Acknowledgements
+
+The authors would like to thank Arizona State Parks and Trails, particularly Katharine Schinzel,
+Business Analyst, and Dawn Collins, PhD, PMP, Executive Project Manager, for their ongoing
+partnership and the immense effort that went into coordinating and managing the 2025 Visitor
+Survey which informed this analysis.
+
+We would also like to thank the interns and park personnel who were involved with in-person survey
+administration throughout 2025.
+
+Finally, we would like to recognize the hard work of three Graduate Research Assistants, Nick
+Tennes, Joseph Lanser, and Grayson Alt, who were involved in survey digitization, and database
+cleaning and validation. This project would not have been possible without their support.
+
+
+
+
+© 2026 University of Arizona Cooperative Extension
+
+Any products, services or organizations that are mentioned, shown or indirectly implied in this publication do not imply
+endorsement by The University of Arizona. Issued in furtherance of Cooperative Extension work, acts of May 8 and June
+30, 1914, in cooperation with the U.S. Department of Agriculture, Edward Martin, Director, Extension & Economic
+Development, College of Agriculture Life Sciences, The University of Arizona. The University of Arizona is an equal
+opportunity, affirmative action institution. The University does not discriminate on the basis of race, color, religion, sex,
+national origin, age, disability, veteran status, or sexual orientation in its programs and activities.
+
+
+                                                                                                                                2
+Contents
+Executive Summary......................................................................................................................8
+Introduction ...............................................................................................................................10
+Data & Methods .........................................................................................................................14
+   Visitor Survey .........................................................................................................................14
+   Visitor Spending Patterns .......................................................................................................14
+   Economic Impact & Contribution Analysis ..............................................................................15
+Park Visitor Spending Patterns ....................................................................................................17
+   Alamo Lake State Park ............................................................................................................17
+   Buckskin Mountain State Park.................................................................................................18
+   Catalina State Park .................................................................................................................18
+   Cattail Cove State Park ...........................................................................................................19
+   Colorado River State Historic Park ..........................................................................................19
+   Dead Horse Ranch State Park .................................................................................................20
+   Fool Hollow Lake Recreation Area ...........................................................................................20
+   Fort Verde State Historic Park .................................................................................................21
+   Granite Mountain Hotshots Memorial State Park .....................................................................21
+   Homolovi State Park ...............................................................................................................22
+   Jerome State Historic Park ......................................................................................................22
+   Kartchner Caverns State Park .................................................................................................23
+   Lake Havasu State Park ..........................................................................................................23
+   Lost Dutchman State Park ......................................................................................................24
+   Lyman Lake State Park............................................................................................................24
+   McFarland State Historic Park.................................................................................................25
+   Oracle State Park ...................................................................................................................25
+   Patagonia Lake State Park.......................................................................................................26
+   Picacho Peak State Park .........................................................................................................26
+   Red Rock State Park ...............................................................................................................27
+   Riordan Mansion State Park ....................................................................................................27
+   River Island State Park ............................................................................................................28
+   Rockin’ River Ranch State Park................................................................................................28
+
+
+                                                                                                                                            3
+   Roper Lake State Park.............................................................................................................29
+   Slide Rock State Park..............................................................................................................29
+   Tombstone Courthouse State Historic Park .............................................................................30
+   Tonto Natural Bridge State Park ...............................................................................................30
+   Tubac Presidio State Historic Park...........................................................................................31
+   Yuma Territorial Prison State Historic Park ...............................................................................31
+County Economic Impact Analysis Results .................................................................................32
+   Apache County ......................................................................................................................33
+   Cochise County .....................................................................................................................34
+   Coconino County ...................................................................................................................35
+   Gila County ............................................................................................................................36
+   Graham County......................................................................................................................37
+   La Paz County ........................................................................................................................38
+   Mohave County ......................................................................................................................39
+   Navajo County .......................................................................................................................40
+   Pima County ..........................................................................................................................41
+   Pinal County ..........................................................................................................................42
+   Santa Cruz County .................................................................................................................43
+   Yavapai County ......................................................................................................................44
+   Yuma County .........................................................................................................................45
+State Economic Contribution Analysis Results ............................................................................46
+Trends in Visitor Spending ..........................................................................................................47
+References ................................................................................................................................48
+
+
+
+
+                                                                                                                                           4
+Figures
+Figure 1. Summary of Economic Contribution & Impact Results .....................................................9
+Figure 2. Map of Arizona State Parks............................................................................................10
+Figure 3. 2025 Monthly Visits by Arizona State Park, Top 5 Parks by Visits & All Other Parks ............ 12
+Figure 4. Arizona State Parks Annual Visits, 1997-2025 ................................................................12
+Figure 5. Data Sources & Estimation Process ..............................................................................14
+Figure 6. Relationship between Sales, Value Added, and Labor Income ........................................16
+
+
+
+Tables
+Table 1. Units in the Arizona State Park System by County Included in Report ...............................11
+Table 2. Annual Visits to Arizona State Parks, Calendar Years 2020 and 2025, and Percent Change 13
+Table 3. Spending Category Mapping to IMPLAN Industries ..........................................................15
+Table 4. Alamo Lake State Park Visitor Spending Patterns, 2025 ...................................................17
+Table 5. Buckskin Mountain State Park Visitor Spending Patterns, 2025 ........................................18
+Table 6. Catalina State Park Visitor Spending Patterns, 2025 ........................................................18
+Table 7. Cattail Cove State Park Visitor Spending Patterns, 2025 ..................................................19
+Table 8. Colorado River State Historic Park Visitor Spending Patterns, 2025 ..................................19
+Table 9. Dead Horse Ranch State Park Visitor Spending Patterns, 2025.........................................20
+Table 10. Fool Hollow Lake Recreation Area Visitor Spending Patterns, 2025 ................................20
+Table 11. Fort Verde State Historic Park Visitor Spending Patterns, 2025 .......................................21
+Table 12. Granite Mountain Hotshots Memorial State Park Visitor Spending Patterns, 2025 ........... 21
+Table 13. Homolovi State Park Visitor Spending Patterns, 2025 ....................................................22
+Table 14. Jerome State Historic Park Visitor Spending Patterns, 2025 ...........................................22
+Table 15. Kartchner Caverns State Park Visitor Spending Patterns, 2025 .......................................23
+Table 16. Lake Havasu State Park Visitor Spending Patterns, 2025 ................................................23
+Table 17. Lost Dutchman State Park Visitor Spending Patterns, 2025 ............................................24
+Table 18. Lyman Lake State Park Visitor Spending Patterns, 2025 .................................................24
+Table 19. McFarland State Historic Park Visitor Spending Patterns, 2025 ......................................25
+Table 20. Oracle State Park Visitor Spending Patterns, 2025 .........................................................25
+Table 21. Patagonia Lake State Park Visitor Spending Patterns, 2025 ............................................26
+Table 22. Picacho Peak State Park Visitor Spending Patterns, 2025 ...............................................26
+Table 23. Red Rock State Park Visitor Spending Patterns, 2025 .....................................................27
+Table 24. Riordan Mansion State Historic Park Visitor Spending Patterns, 2025 .............................27
+Table 25. River Island State Park Visitor Spending Patterns, 2025 .................................................28
+Table 26. Rockin’ River Ranch State Park Visitor Spending Patterns, 2025 .....................................28
+Table 27. Roper Lake State Park Visitor Spending Patterns, 2025 ..................................................29
+Table 28. Slide Rock State Park Visitor Spending Patterns, 2025 ...................................................29
+Table 29. Tombstone Courthouse State Historic Park Visitor Spending Patterns, 2025 ................... 30
+
+
+                                                                                                                                5
+Table 30. Tonto Natural Bridge State Park Visitor Spending Patterns, 2025 ....................................30
+Table 31. Tubac Presidio State Historic Park Visitor Spending Patterns, 2025 ................................31
+Table 32. Yuma Territorial Prison State Historic Park Visitor Spending Patterns, 2025 .................... 31
+Table 33. Apache County Non-Local Visitor Spending Economic Impact Estimates ...................... 33
+Table 34. Cochise County Non-Local Visitor Spending Economic Impact Estimates ..................... 34
+Table 35. Coconino County Non-Local Visitor Spending Economic Impact Estimates ................... 35
+Table 36. Gila County Non-Local Visitor Spending Economic Impact Estimates ............................36
+Table 37. Graham County Non-Local Visitor Spending Economic Impact Estimates ...................... 37
+Table 38. La Paz County Non-Local Visitor Spending Economic Impact Estimates ........................ 38
+Table 39. Mohave County Non-Local Visitor Spending Economic Impact Estimates ...................... 39
+Table 40. Navajo County Non-Local Visitor Spending Economic Impact Estimates ....................... 40
+Table 41. Pima County Non-Local Visitor Spending Economic Impact Estimates ..........................41
+Table 42. Pinal County Non-Local Visitor Spending Economic Impact Estimates ..........................42
+Table 43. Santa Cruz County Non-Local Visitor Spending Economic Impact Estimates ................. 43
+Table 44. Yavapai County Non-Local Visitor Spending Economic Impact Estimates ...................... 44
+Table 45. Yuma County Non-Local Visitor Spending Economic Impact Estimates ......................... 45
+Table 46. Statewide Visitor Spending Economic Contribution Estimates .......................................46
+Table 47. Comparison of Arizona State Park Visitor Spending Economic Impact & Contribution
+Estimates Across Study Years, FY2007 to Calendar Year 2025 ......................................................47
+
+
+
+
+                                                                                                                 6
+Glossary
+CY – Calendar year
+
+FY – Fiscal year
+
+MSP – Memorial State Park
+
+SHP – State Historic Park
+
+SNA – State Natural Area
+
+SP – State Park
+
+
+
+
+                            7
+Executive Summary
+
+What is the issue?
+Arizona State Parks and Trails offers a system of recreation, historic, conservation parks, and state
+natural areas for public use. The parks host a variety of amenities such as trails, camping facilities,
+cabins, park stores, and visitor centers. Parks engage in regular programming like tours and ranger-
+led activities, but also special events. Parks are located throughout the state, in all but 2 of
+Arizona’s 15 counties. These parks attract local visitors, but also non-local visitors from in-state,
+out-of-state, and internationally. Non-local visitation supports regional outdoor recreation and
+tourism economies in the form of jobs, income, and tax revenues. This is especially important in
+rural areas of the state. This report quantiﬁes the importance of Arizona State Parks to regional
+economies by estimating the economic contributions and impacts of state park visitor spending.
+This includes a statewide economic contribution estimate for total visitor spending as well as
+individual county-level economic impacts of non-local visitor spending for the year 2025.
+
+What did the study find?
+Visitors to Arizona State Parks had direct spending of $355 million within 50 miles of the parks
+they visited, $308 million of which was non-local spending
+
+Of the $355 million in direct visitor spending, approximately $308 million came from non-local
+visitors – those residing outside the park’s county and whose zip codes fall outside a 50-mile radius
+of the park. This means that visitor spending associated with state parks supports the infusion of
+revenues into regional economies, especially important to rural areas.
+
+Arizona State Parks supported a total statewide economic contribution of $555 million in sales
+and $273 million in GDP in 2025
+
+An estimated total of $355 million in direct state park visitor spending in 2025 generated roughly
+$99 million in indirect business-to-business economic activity and $102 million in induced
+household-to-business transactions, supporting a total of roughly $555 million in statewide
+economic activity. This supported an estimated $273 million in gross state product (value added),
+$151 million in labor income, and nearly 3,000 jobs statewide. An estimated $18 million in state tax
+revenues and $14 million in county and local tax revenues were supported.
+
+On a per-visitor basis, inﬂation-adjusted non-local spending increased between FY2020 and
+2025
+
+On average, non-local visitors spent $144.91 in the area surrounding state parks in 2025, compared
+to $117.30 in 2020, an increase of roughly 24% when adjusted for inﬂation to 2025 dollars.
+
+County-level economic impacts and the statewide economic contribution are summarized in
+Figure 1.
+
+                                                                                                      8
+Figure 1. Summary of Economic Contribution & Impact Results
+
+
+
+
+How was the study done?
+Visitor spending patterns were developed using responses from the 2025 Arizona State Parks Visitor
+Survey (Duval et al., 2026, unpublished). The estimated visitor spending patterns were then applied
+to visitor counts (NAU EPI, 2026) to estimate the direct effects, or the total spending in and around
+Arizona state parks. Indirect and induced economic multiplier effects were estimated using the
+2024 IMPLAN Pro Arizona model and data (IMPLAN Group, LLC, 2026).
+
+
+
+                                                                                                   9
+Introduction
+Arizona State Parks and Trails offers a system of recreation, historic, and conservation parks, and
+state natural areas for public use. The parks host a variety of amenities such as trails, camping
+facilities, cabins, park stores, and visitor centers. Parks engage in regular programming like tours
+and ranger-led activities, but also special events. Parks are located throughout the state, in all but 2
+of Arizona’s 15 counties (Figure 2). These parks attract local visitors, but also non-local visitors from
+in-state, out-of-state, and internationally. Non-local visitation supports regional outdoor recreation
+and tourism economies in the form of jobs, income, and tax revenues. This is especially important
+in rural areas of the state.
+
+This report quantiﬁes the importance of Arizona State Parks to regional economies by estimating
+the economic contributions and impacts of state park visitor spending in 2025. This includes a
+statewide economic contribution estimate as well as individual county-level economic impacts of
+non-local visitor spending.
+
+Figure 2. Map of Arizona State Parks
+
+
+
+
+                                                                                                      10
+This analysis considers visitor spending associated with individual parks. Table 1 presents the parks
+considered in this analysis, as well as the counties where each is located.
+
+Table 1. Units in the Arizona State Park System by County Included in Report
+
+ Park Unit                                                                       County
+ Lyman Lake State Park                                                           Apache
+ Kartchner Caverns State Park                                                    Cochise
+ Tombstone Courthouse State Historic Park                                        Cochise
+ Riordan Mansion State Historic Park                                             Coconino
+ Slide Rock State Park                                                           Coconino
+ Tonto Natural Bridge State Park                                                 Gila
+ Roper Lake State Park (includes Dankworth Pond SP)                              Graham
+ Alamo Lake State Park                                                           La Paz
+ Buckskin Mountain State Park                                                    La Paz
+ River Island State Park                                                         La Paz
+ Cattail Cove State Park                                                         Mohave
+ Lake Havasu State Park                                                          Mohave
+ Fool Hollow Lake Recreation Area                                                Navajo
+ Homolovi State Park                                                             Navajo
+ Catalina State Park                                                             Pima
+ Lost Dutchman State Park                                                        Pinal
+ McFarland State Historic Park                                                   Pinal
+ Oracle State Park                                                               Pinal
+ Picacho Peak State Park                                                         Pinal
+ Patagonia Lake State Park (includes Sonoita Creek SNA)                          Santa Cruz
+ Sonoita Creek State Natural Area                                                Santa Cruz
+ Tubac Presidio State Historic Park                                              Santa Cruz
+ Dead Horse Ranch State Park (includes Verde River Greenway SNA)                 Yavapai
+ Fort Verde State Historic Park                                                  Yavapai
+ Granite Mountain Hotshots Memorial State Park                                   Yavapai
+ Jerome State Historic Park                                                      Yavapai
+ Red Rock State Park                                                             Yavapai
+ Rockin’ River Ranch State Park                                                  Yavapai
+ Colorado River State Historic Park                                              Yuma
+ Yuma Territorial Prison State Historic Park                                     Yuma
+
+
+There were over 2,847,000 visits to Arizona State Parks recorded in 2025. Visits were highest overall
+in the month of March, followed by April and January (Figure 3). The parks with the most visits were
+Lake Havasu State Park, Slide Rock State Park, Catalina State Park, and Patagonia Lake State Park.
+All four of these parks are recreation-oriented parks. Of these parks, only Slide Rock does not offer
+overnight camping.
+
+                                                                                                   11
+Figure 3. 2025 Monthly Visits by Arizona State Park, Top 5 Parks by Visits & All Other Parks
+
+           350,000
+
+           300,000
+
+           250,000
+                                                                                                                                                                                    All Other Parks
+           200,000                                                       All Other Parks                                                                                            Dead Horse Ranch
+  Visits                                                                                                                                                                            Patagonia Lake
+           150,000                           Dead Horse Ranch
+                                                           Patagonia Lake                                                                                                           Catalina
+           100,000                                                                                                                                                                  Slide Rock
+                                                                                   Slide Rock
+                               Catalina
+            50,000                                                                                                                                                                  Lake Havasu
+                                                                                 Lake Havasu
+                 0
+
+
+
+
+Total annual visits to Arizona State Parks increased by over 50% between 2011 and 2018; since
+then, visitation has remained steady or declined slightly (Figure 4).
+
+Figure 4. Arizona State Parks Annual Visits, 1997-2025
+
+ 3,500,000
+
+ 3,000,000
+
+ 2,500,000
+
+ 2,000,000
+
+ 1,500,000
+
+ 1,000,000
+
+   500,000
+
+             0
+
+                 1997   1998   1999   2000   2001   2002   2003   2004   2005   2006   2007   2008   2009   2010   2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024   2025
+
+
+COVID had major impacts on visitation to Arizona’s state parks in 2020 when the last visitor survey
+and economic contribution study were conducted. In particular, visitation to historic parks and
+other parks with conﬁned or indoor settings was curtailed, while demand for open-air outdoor
+recreation opportunities increased. Since 2020, visitation has returned to more normal levels. This
+is reﬂected in a change in visitation between 2020 and 2025, with large increases in visitation to
+historic parks (which feature indoor facilities), and decreases in visitation to recreation and
+conservation parks (Table 2). Overall, visitation declined by 4% between calendar years 2020 and 2025.
+
+                                                                                                                                                                                                                            12
+Table 2. Annual Visits to Arizona State Parks, Calendar Years 2020 and 2025, and Percent Change
+
+ Park                                               2020 Visits               2025 Visits         Change
+ Alamo                                                    72,244                    79,113           10%
+ Buckskin Mountain                                        86,787                    51,498          -41%
+ Catalina                                                247,018                   241,606           -2%
+ Cattail Cove                                            116,822                    85,255          -27%
+ Colorado River (Yuma Crossing)                            7,323                    14,336           96%
+ Dead Horse Ranch                                        231,202                   189,662          -18%
+ Fool Hollow                                             160,370                   108,405          -32%
+ Fort Verde                                                6,186                     8,769           42%
+ Granite Mountain Hotshots                                27,098                    18,360          -32%
+ Homolovi                                                 24,570                    27,797           13%
+ Jerome                                                   26,316                    41,914           59%
+ Kartchner Caverns                                        82,390                   122,055           48%
+ Lake Havasu                                             598,403                   446,529          -25%
+ Lost Dutchman                                           201,737                   188,842           -6%
+ Lyman Lake                                               79,554                    29,809          -63%
+ McFarland                                                 2,942                     5,790           97%
+ Oracle                                                   13,923                    12,998           -7%
+ Patagonia Lake                                          237,999                   237,284            0%
+ Picacho Peak                                            103,525                    96,222           -7%
+ Red Rock                                                 72,218                    76,217            6%
+ Riordan Mansion                                           2,478                    13,236          434%
+ River Island                                             33,308                    27,722          -17%
+ Rockin' River Ranch*                                        N/A                     5,672            N/A
+ Roper Lake                                               95,921                    58,639          -39%
+ Slide Rock                                              290,186                   435,086           50%
+ Tombstone                                                25,770                    30,926           20%
+ Tonto                                                    70,767                   128,765           82%
+ Tubac                                                     4,820                    11,420          137%
+ Yuma Territorial Prison                                  39,894                    53,094           33%
+ Arizona Total                                         2,961,771                 2,847,021           -4%
+                          * Rockin’ River Ranch State Park opened to the public in 2024
+
+The remainder of the report is structured as follows: we present the data and methods used for the
+analyses. We then provide estimated visitor spending patterns by park. County economic impact
+estimates and the estimated statewide economic contribution analysis follow. Finally, we conclude
+the report with a comparison of results from this study to previous studies to understand trends in
+visitor spending.
+
+
+
+
+                                                                                                        13
+Data & Methods
+This report presents the statewide economic contribution of Arizona’s state parks, and individual
+county-level economic impacts of each county’s state parks. Whereas the statewide economic
+contribution analysis presented in this report includes the spending of all visitors regardless of their
+county or state of origin, local economic impacts exclude the spending of local residents, which
+does not represent an inﬂux of revenues into the local economy. Separate visitor spending patterns
+were constructed for each park: one for non-local visitors, and one for local visitors.
+
+Visitor spending patterns were developed using responses from the 2025 Arizona State Parks Visitor
+Survey (Duval et al., 2026, unpublished). The estimated visitor spending patterns were then applied
+to visitor counts (NAU EPI, 2026) (Table 2) to estimate the direct effects, or the total spending in and
+around Arizona state parks. Indirect and induced economic multiplier effects were estimated using
+the 2024 IMPLAN Pro Arizona model and data (IMPLAN Group, LLC, 2026). Figure 5 illustrates the
+data and process used in estimating economic impacts and contributions in this study.
+
+Figure 5. Data Sources & Estimation Process
+
+
+         Visitor             Share of                                                    Economic
+                                               Annual Visits        Estimated
+       Spending            Visitors with                                                 Impact or
+                                              (Arizona State          Total
+         Pattern           Expenditure                                                  Contribution
+                                                  Parks)            Spending
+        (Survey)             (Survey)                                                    (IMPLAN)
+
+
+
+
+Visitor Survey
+This study relies on a survey of visitors to Arizona State Parks between January and December 2025
+(Duval & Montanía, 2026). A total of 10,693 observations were collected from 30 of Arizona’s state
+parks and natural areas. The survey asked visitors to report their spending in and within 50 miles of
+the state park. Other questions asked about visitor characteristics and their experience and
+satisfaction with their visit. Of the total 10,693 survey responses, 8,600 included usable visitor
+expenditure data, either information on whether or not expenditures were made in a particular
+category, or speciﬁc spending information by category.
+
+
+
+Visitor Spending Patterns
+Representative visitor spending patterns were developed for non-local visitors and local visitors for
+each park using visitor survey responses to questions on spending, reported visitor zip codes of
+origin, reported group size (Duval & Montanía, 2026), and Arizona State Parks and Trails annual
+visitation statistics (NAU EPI, 2026). These measures were combined to estimate total non-local
+spending within 50 miles of each park by non-local visitors, as well as total visitor spending
+regardless of visitor origin.
+
+
+                                                                                                       14
+Economic Impact & Contribution Analysis
+The beneﬁts of parks can be measured in a variety of ways. Some measures are monetary in nature,
+while others cannot be easily monetized. Similarly, some measures are based on market
+transactions (the purchase or sale of a good or service), while others are not. This study measures
+two types of economic effects of state parks: local (county) economic impacts and statewide
+economic contributions. Both measures are rooted in visitor spending. State parks attract visitors,
+often from outside the local area, who spend money on lodging, meals, and incidental
+expenditures. This spending is important to local economies, supporting businesses and jobs.
+Many state parks are located in rural areas where visitor spending is an important source of
+livelihood for local residents.
+
+For the economic impact and economic contribution analyses conducted in this study, economic
+multiplier effects were estimated using the IMPLAN Pro model and 2024 data (IMPLAN Group, LLC,
+2026). County economic impact analyses were run using the IMPLAN county model corresponding
+to the county where the state park is located. Visitor spending by category was modeled as industry
+contribution analyses. The statewide economic contribution analysis used the state model and
+similarly modeled visitor spending by category as industry contribution analyses. Visitor spending
+by category was assigned to IMPLAN industries as detailed in Table 3.
+
+Table 3. Spending Category Mapping to IMPLAN Industries
+
+ Spending Category                                    IMPLAN Industry
+ Admission, recreation, & entertainment fees          486 Other amusement & recreation industries
+ Camping fees & charges                               490 Other accommodations
+ Lodging                                              489 Hotels & motels, including casino hotels
+ Groceries                                            389 Retail - Food & beverage stores*
+ Food & beverage                                      491 Full-service restaurants
+ Retail shopping                                      394 Retail - General merchandise stores*
+ Auto expenses                                        391 Gasoline stores
+ Any other expenses                                   395 Retail - Miscellaneous store retailers*
+* For expenditures at retail (groceries, retail shopping, and other expenses), gross visitor spending was
+margined using IMPLAN published retail margins by industry for purposes of calculating multiplier effects.
+Direct spending was calculated as gross retail spending.
+
+
+Both economic impacts and economic contributions are presented using different measures.
+Sales, also referred to as output, measures the total value of transactions within the economy. In
+that sense, it may double-count some economic activity occurring within a region because the ﬁnal
+sales value of a good or service includes all inputs to production. For example, if a restaurant sold
+food that was made using produce from a local farm, the cost of the produce from the local farm
+would get counted twice: once as the sale of produce, and once as part of the meal sold to the
+restaurant customer. Value added is a measure equivalent to gross domestic product (or GDP) that
+avoids double-counting inputs to production. It measures the net value of a good and service above
+and beyond the value of inputs. Value added includes labor income, proﬁts and other rents, and
+
+                                                                                                             15
+taxes. Labor income, a component of value added, measures wages, salaries, and beneﬁts to
+employees, as well as business owner income. The relationship between these three measures is
+presented in Figure 6. Because these measures are components of one another, they are not
+additive and convention is to report them separately. Finally, beyond these measures, economic
+impacts and contributions can also be measured in terms of the number of jobs that are supported
+through direct, indirect, and induced multiplier effects. Tax revenues, a component of value
+added, are often presented separately because they are of interest to local governments as they
+consider policies that may impact businesses and industries, thereby inﬂuencing the local tax
+base.
+
+Figure 6. Relationship between Sales, Value Added, and Labor Income
+
+
+
+
+Economic impact and contribution analyses measure what are known as economic multiplier
+effects. When visitor spending (or “demand”) is generated within a particular industry or business
+(direct effect), in order to provide that good or service, the business or industry in turn requires
+inputs of goods and services to operate and provide the good or service demanded. Some of those
+inputs will be purchased within the local economy, and this effect continues, while dissipating due
+to non-local purchases of inputs. This cascade of business-to-business purchases, made in order
+to operate and serve customers, is known as indirect multiplier effects. Another effect occurs
+when individuals employed in businesses or industries spend their income on household goods
+and services within the local economy, known as induced effects. Again, the effect dissipates
+gradually in subsequent rounds of purchases due to purchases fulﬁlled from outside the local
+economy. Adding the direct, indirect, and induced effects, we obtain the total economic impact or
+contribution, which is typically larger than the direct effect. The ratio of the total economic
+contribution or economic impact to the direct effect is known as the multiplier.
+
+
+
+                                                                                                 16
+Park Visitor Spending Patterns
+The following section reports estimated average per-party visitor spending patterns, separated by
+park and by whether visitors are local or non-local. For each spending category, we report two
+things: how many visitor groups spent money in that category, and how much they spent on
+average. Readers may see occasional unexpected results, for example, higher spending on lodging
+by local visitors than non-local visitors. This likely reﬂects relatively small shares of local visitors at
+some parks, some of whom may have had high spending in individual categories, affecting the
+average. Nonetheless, because this is a small share of visitors, its inﬂuence on overall estimated
+visitor spending should be minimal.
+
+Alamo Lake State Park
+Alamo Lake State Park in La Paz County is located along the Bill Williams River, created by the
+Alamo Dam project constructed by the U.S. Army Corps of Engineers. In addition to water-based
+recreation, the park offers ﬁshing and overnight camping. Visitation in 2025 was 79,113, and an
+estimated 89% of visitors were non-local (from over 50 miles away). The average party size was 3.5
+people for both local and non-local parties. Table 4 presents the estimated spending patterns for
+non-local and local visitors to Alamo Lake State Park.
+
+Table 4. Alamo Lake State Park Visitor Spending Patterns, 2025
+
+                                                     Percent of Parties with       Average Amount per
+ Expenditure Category
+                                                         Expenditures              Party with Expenses
+                                                      Non-Local         Local       Non-Local       Local
+ Admission, recreation, & entertainment fees               21%           24%              $69        $50
+ Camping fees & charges                                    77%           76%             $178       $167
+ Lodging                                                     8%           3%             $205       $225
+ Groceries                                                 47%           24%             $108        $86
+ Food & beverage                                           34%           41%              $85        $87
+ Retail shopping                                           28%           22%              $97        $29
+ Auto expenses                                             52%           24%             $142       $124
+ Any other expenses                                          6%          14%             $163       $101
+
+
+
+
+                                                                                                         17
+Buckskin Mountain State Park
+Buckskin Mountain State Park is a recreational state park situated on the Colorado River near
+Parker, Arizona, in La Paz County. Opened in 1967, the park provides recreational infrastructure like
+campgrounds, shaded picnic areas, showers, restrooms, and river access. In 2025, the park
+received 51,498 visits, of which an estimated 96% were non-local (from over 50 miles away). The
+average party size was 4.5 for local parties and 3.9 for non-local parties. Table 5 presents the
+estimated spending patterns for non-local and local visitors to Buckskin Mountain State Park.
+
+Table 5. Buckskin Mountain State Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                 22%          40%          $123       $121
+ Camping fees & charges                                      80%          60%          $225       $344
+ Lodging                                                      6%          10%          $364       $200
+ Groceries                                                   68%          60%          $175       $242
+ Food & beverage                                             62%          50%          $134       $202
+ Retail shopping                                             35%          20%           $87        $60
+ Auto expenses                                               73%          30%          $142        $70
+ Any other expenses                                           6%          10%          $286        $50
+
+
+
+Catalina State Park
+Catalina State Park was created through legislative action in the 1970s to preserve an area north of
+Tucson in Pima County. The park opened in 1983 and today offers recreational opportunities such
+as camping and hiking. There were a total of 241,606 visitors in 2025, of which 51% were non-local
+(from over 50 miles away). The average party size was 2.5 for local parties and 2.7 for non-local
+parties. Table 6 presents the estimated spending patterns for non-local and local visitors to
+Catalina State Park.
+
+Table 6. Catalina State Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                 54%          50%           $74        $42
+ Camping fees & charges                                      54%          14%          $241       $111
+ Lodging                                                     15%           1%          $670       $263
+ Groceries                                                   64%          33%          $168       $109
+ Food & beverage                                             65%          50%          $159        $78
+ Retail shopping                                             36%          13%          $123       $155
+ Auto expenses                                               62%          31%          $141        $44
+ Any other expenses                                           8%           0%          $331        N/A
+
+
+
+
+                                                                                                     18
+Cattail Cove State Park
+Cattail Cove State Park is one of three state parks located along the shores of Lake Havasu. The
+park is located in Mohave County and offers lake access for recreation. The park received a total of
+85,255 visits in 2025, of which 83% were non-local (from over 50 miles away). The average party
+size was 4.6 for local parties and 4.8 for non-local parties. Table 7 presents the estimated spending
+patterns for non-local and local visitors to Cattail Cove State Park.
+
+Table 7. Cattail Cove State Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                 38%          58%          $100        $61
+ Camping fees & charges                                      67%          37%          $252       $116
+ Lodging                                                      9%           2%          $587       $150
+ Groceries                                                   69%          60%          $200       $140
+ Food & beverage                                             59%          50%          $165       $145
+ Retail shopping                                             34%          23%          $109        $55
+ Auto expenses                                               76%          60%          $184       $112
+ Any other expenses                                           9%           4%          $289       $200
+
+
+
+
+Colorado River State Historic Park
+Colorado River State Historic Park, located nearby in Yuma County, is located on the grounds of the
+U.S. Army Quartermaster Depot, built in 1864. The location served as a supply base for military
+operations in western states, transporting goods via the Colorado River. The park received 14,336
+visits in 2025, 81% of which were non-local (from over 50 miles away). The average party size was
+2.8 for local parties and 2.4 for non-local parties. Table 8 presents the estimated spending patterns
+for non-local and local visitors to Colorado River State Historic Park.
+
+Table 8. Colorado River State Historic Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                 88%          89%           $44        $48
+ Camping fees & charges                                      12%           0%          $300        N/A
+ Lodging                                                     45%           7%          $400       $675
+ Groceries                                                   38%          25%          $164       $212
+ Food & beverage                                             67%          47%          $145       $131
+ Retail shopping                                             38%          40%          $105       $101
+ Auto expenses                                               58%          23%           $92       $112
+ Any other expenses                                           6%           5%          $478       $262
+
+
+
+
+                                                                                                     19
+Dead Horse Ranch State Park
+Dead Horse Ranch State Park was ﬁrst opened in 1977 and is located near the town of Cottonwood
+on the Verde River in Yavapai County. The park offers camping, cabins, hiking, and water-based
+recreation. The park received 189,662 visits in 2025, 57% of visitors were non-local (from over 50
+miles away). The average party size was 2.6 for local parties and 3.1 for non-local parties. Table 9
+presents the estimated spending patterns for non-local and local visitors to Dead Horse Ranch
+State Park.
+
+Table 9. Dead Horse Ranch State Park Visitor Spending Patterns, 2025
+
+                                                     Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                         Expenditures           Party with Expenses
+                                                      Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                52%          50%           $82        $53
+ Camping fees & charges                                     54%          24%          $237       $154
+ Lodging                                                    12%           2%          $476        $88
+ Groceries                                                  49%          32%          $167       $102
+ Food & beverage                                            58%          41%          $160        $91
+ Retail shopping                                            35%          13%           $97        $70
+ Auto expenses                                              58%          34%          $139        $46
+ Any other expenses                                          9%          11%          $177        $39
+
+
+
+Fool Hollow Lake Recreation Area
+Fool Hollow Lake Recreation Area was opened in 1994 as a partnership between Arizona State
+Parks, the City of Show Low, the U.S. Forest Service, and Arizona Game and Fish Department. The
+park received a total of 108,405 visits in 2025, of which 88% were non-local (from over 50 miles
+away). The average party size was 8.3 for local parties and 4.3 for non-local parties. Table 10
+presents the estimated spending patterns for non-local and local visitors to Fool Hollow Lake
+Recreation Area.
+
+Table 10. Fool Hollow Lake Recreation Area Visitor Spending Patterns, 2025
+
+                                                     Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                         Expenditures           Party with Expenses
+                                                      Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                37%          61%           $83        $49
+ Camping fees & charges                                     64%          20%          $234       $108
+ Lodging                                                    10%           7%          $514       $562
+ Groceries                                                  66%          41%          $134       $141
+ Food & beverage                                            61%          44%          $140       $100
+ Retail shopping                                            34%          22%           $96       $109
+ Auto expenses                                              71%          34%          $106        $77
+ Any other expenses                                          8%           7%          $179        $51
+
+
+
+
+                                                                                                    20
+Fort Verde State Historic Park
+Fort Verde State Historic Park, located in Yavapai County, was opened and dedicated in 1970. The
+fort was established in the 1870s and served as a military base for the U.S. Army. The park received
+8,769 visits in 2025, of which 85% were non-local (from over 50 miles away). The average party size
+was 2.6 for local parties and 2.5 for non-local parties. Table 11 presents the estimated spending
+patterns for non-local and local visitors to Fort Verde State Historic Park.
+
+Table 11. Fort Verde State Historic Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with     Average Amount per
+ Expenditure Category
+                                                          Expenditures            Party with Expenses
+                                                       Non-Local         Local     Non-Local       Local
+ Admission, recreation, & entertainment fees                 89%          76%            $48        $29
+ Camping fees & charges                                      13%           4%           $191       $250
+ Lodging                                                     33%          16%           $598       $368
+ Groceries                                                   34%           8%           $110        $75
+ Food & beverage                                             56%          44%           $168        $94
+ Retail shopping                                             34%          20%            $84        $44
+ Auto expenses                                               48%          24%           $102        $45
+ Any other expenses                                           3%           0%           $264        N/A
+
+
+
+Granite Mountain Hotshots Memorial State Park
+Granite Mountain Hotshots Memorial State Park was established to honor the lives of 19 wildland
+ﬁreﬁghters who perished during the Yarnell Hill Fire in 2013. The park includes a hiking trail and
+memorial. The park opened to the public in 2016 and is located in Yavapai County. The park
+received 18,360 visits in 2025, of which 84% were non-local (from over 50 miles away). The average
+party size was 2.5 for local parties and 3.3 for non-local parties. Table 12 presents the estimated
+spending patterns for non-local and local visitors to Granite Mountain Hotshots Memorial State
+Park.
+
+Table 12. Granite Mountain Hotshots Memorial State Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with     Average Amount per
+ Expenditure Category
+                                                          Expenditures            Party with Expenses
+                                                       Non-Local         Local     Non-Local       Local
+ Admission, recreation, & entertainment fees                 11%           0%            $66        N/A
+ Camping fees & charges                                       5%           0%            $80        N/A
+ Lodging                                                     26%           0%           $417        N/A
+ Groceries                                                   31%          17%            $66        $67
+ Food & beverage                                             66%          61%           $127        $84
+ Retail shopping                                             31%          17%           $137       $112
+ Auto expenses                                               64%          56%            $59        $45
+ Any other expenses                                           3%           6%           $379        $10
+
+
+
+
+                                                                                                      21
+Homolovi State Park
+Homolovi State Park opened in 1993 and was established to protect and conserve the Homolovi
+archaeological sites which were inhabited between AD 620 and 1400. The site, located in Navajo
+County, is of great cultural signiﬁcance to the Hopi people. The park received 27,797 visits in 2025,
+of which 97% were non-local (from over 50 miles away). The average party size was 3.5 for local
+parties and 2.2 for non-local parties. Table 13 presents the estimated spending patterns for non-
+local and local visitors to Homolovi State Park.
+
+Table 13. Homolovi State Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                 29%          67%           $39        $38
+ Camping fees & charges                                      77%          11%           $77       $150
+ Lodging                                                      9%           0%          $404        N/A
+ Groceries                                                   39%          11%           $84       $200
+ Food & beverage                                             50%          33%           $90       $263
+ Retail shopping                                             36%          56%           $93        $71
+ Auto expenses                                               64%          33%           $96        $50
+ Any other expenses                                           4%           0%           $63        N/A
+
+
+
+
+Jerome State Historic Park
+Jerome State Historic Park opened in 1965 and celebrates the state’s mining history. The park
+consists of a museum located in the historic Douglas family mansion. The park received a total of
+41,914 visits in 2025, 90% of which were non-local (from over 50 miles away). The average party
+size was 2.7 for local parties and 3.2 for non-local parties. Table 14 presents the estimated
+spending patterns for non-local and local visitors to Jerome State Historic Park.
+
+Table 14. Jerome State Historic Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                 89%          89%           $62        $29
+ Camping fees & charges                                       7%           4%          $234        $28
+ Lodging                                                     40%          11%          $593       $917
+ Groceries                                                   31%          11%          $180       $138
+ Food & beverage                                             73%          52%          $205       $110
+ Retail shopping                                             51%          48%          $142        $84
+ Auto expenses                                               47%          37%          $102        $38
+ Any other expenses                                           3%           4%          $388        $20
+
+
+
+
+                                                                                                     22
+Kartchner Caverns State Park
+Kartchner Caverns State Park, located in Cochise County, was opened and dedicated in 1999 for
+the conservation of a network of living limestone caves discovered in the 1970s. The park offers
+cave tours, camping, and cabins. The park received a total of 122,055 visits in 2025, of which 78%
+were non-local (from over 50 miles away). The average party size was 3.8 for local parties and 3.6
+for non-local parties. Table 15 presents the estimated spending patterns for non-local and local
+visitors to Kartchner Caverns State Park.
+
+Table 15. Kartchner Caverns State Park Visitor Spending Patterns, 2025
+
+                                                     Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                         Expenditures           Party with Expenses
+                                                      Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                77%          79%          $100        $97
+ Camping fees & charges                                     37%          23%          $177       $156
+ Lodging                                                    22%           5%          $375       $243
+ Groceries                                                  38%          27%          $130       $132
+ Food & beverage                                            53%          30%          $121        $89
+ Retail shopping                                            48%          40%           $73        $96
+ Auto expenses                                              60%          34%           $93        $69
+ Any other expenses                                          8%           4%          $336       $360
+
+
+
+
+Lake Havasu State Park
+Lake Havasu State Park, located in Mohave County, was acquired in 1965 and was the second
+water-based recreation park within the Arizona State Parks system. The park is one of three located
+on the shores of Lake Havasu and offers recreation facilities and camping. The park received a total
+of 446,529 visits in 2025, of which 75% were non-local (from over 50 miles away). The average party
+size was 4.0 for local parties and 4.6 for non-local parties. Table 16 presents the estimated
+spending patterns for non-local and local visitors to Lake Havasu State Park.
+
+Table 16. Lake Havasu State Park Visitor Spending Patterns, 2025
+
+                                                     Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                         Expenditures           Party with Expenses
+                                                      Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                41%          41%           $77        $95
+ Camping fees & charges                                     52%          27%          $304       $177
+ Lodging                                                    24%           9%          $519       $383
+ Groceries                                                  72%          61%          $205       $170
+ Food & beverage                                            75%          58%          $218       $169
+ Retail shopping                                            42%          28%          $156       $307
+ Auto expenses                                              67%          63%          $184       $159
+ Any other expenses                                          9%           5%          $411        $53
+
+
+
+                                                                                                    23
+Lost Dutchman State Park
+Lost Dutchman State Park is located in Pinal County outside the Phoenix metropolitan area and
+abuts the Tonto National Forest. The park offers hiking trails, outdoor recreation facilities, camping,
+and cabins. The park received 188,842 visits in 2025, of which 54% were non-local (from over 50
+miles away). The average party size was 3.0 for local parties and 2.6 for non-local parties. Table 17
+presents the estimated spending patterns for non-local and local visitors to Lost Dutchman State
+Park.
+
+Table 17. Lost Dutchman State Park Visitor Spending Patterns, 2025
+
+                                                     Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                         Expenditures           Party with Expenses
+                                                      Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                49%          66%           $59        $38
+ Camping fees & charges                                     55%          31%          $208       $161
+ Lodging                                                    12%           3%          $519       $200
+ Groceries                                                  56%          32%          $138        $87
+ Food & beverage                                            53%          31%          $133        $76
+ Retail shopping                                            34%          11%          $112       $134
+ Auto expenses                                              55%          32%          $128        $40
+ Any other expenses                                          7%           2%          $202       $534
+
+
+
+
+Lyman Lake State Park
+Lyman Lake State Park, located on the Little Colorado River in Apache County, opened in 1961. The
+park offers hiking, water-based recreation, and camping. The park received 29,809 visits in 2025, of
+which 70% were non-local (from over 50 miles away). The average party size was 3.6 for local
+parties and 3.5 for non-local parties. Table 18 presents the estimated spending patterns for non-
+local and local visitors to Lyman Lake State Park.
+
+Table 18. Lyman Lake State Park Visitor Spending Patterns, 2025
+
+                                                     Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                         Expenditures           Party with Expenses
+                                                      Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                31%          43%           $83        $42
+ Camping fees & charges                                     66%          52%          $172       $141
+ Lodging                                                     9%           1%          $329       $210
+ Groceries                                                  51%          60%          $116       $131
+ Food & beverage                                            38%          27%           $78        $74
+ Retail shopping                                            34%          26%           $54        $61
+ Auto expenses                                              61%          54%           $94        $69
+ Any other expenses                                          8%           6%          $113        $91
+
+
+
+
+                                                                                                     24
+McFarland State Historic Park
+McFarland State Historic Park was established in 1979 to preserve the original Pinal County
+Courthouse built in 1878. The park serves as a museum offering exhibits and events to visitors. The
+park received 5,790 visits in 2025, of which 38% were non-local (from over 50 miles away). The
+average party size was 5.7 for local parties and 3.3 for non-local parties. Table 19 presents the
+estimated spending patterns for non-local and local visitors to McFarland State Historic Park.
+
+Table 19. McFarland State Historic Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                 67%          29%           $13        $19
+ Camping fees & charges                                      17%           0%          $430        N/A
+ Lodging                                                      0%           0%           N/A        N/A
+ Groceries                                                    8%          47%        $1,000        $87
+ Food & beverage                                             67%          71%           $54        $33
+ Retail shopping                                             42%          29%           $37        $44
+ Auto expenses                                               25%          41%           $75        $30
+ Any other expenses                                           0%           0%           N/A        N/A
+
+
+
+
+Oracle State Park
+Oracle State Park opened in 2001 and was established to conserve the natural area, protect wildlife
+habitat, and preserve the Kannally Ranch house and other historic structures on the park. Located
+in Pinal County, the park offers outdoor recreation opportunities such as hiking and mountain
+biking, and the park offers access to the Arizona Trail which passes through the park. The park
+received 12,998 visits in 2025, 29% of which were non-local (from over 50 miles away). The average
+party size was 2.3 for both local and non-local parties. Table 20 presents the estimated spending
+patterns for non-local and local visitors to Oracle State Park.
+
+Table 20. Oracle State Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                 71%          48%           $63        $61
+ Camping fees & charges                                       9%           0%          $232        N/A
+ Lodging                                                     22%           3%          $679       $138
+ Groceries                                                   37%          23%          $200       $267
+ Food & beverage                                             65%          48%          $106       $122
+ Retail shopping                                             26%          17%           $66       $110
+ Auto expenses                                               50%          35%          $127        $44
+ Any other expenses                                           7%           1%          $528       $120
+
+
+
+                                                                                                     25
+Patagonia Lake State Park
+Patagonia Lake State Park, in Santa Cruz County, was built in the 1960s and became a state park in
+1975. The park offers water-based recreation, hiking, and camping. Visitation to Sonoita Creek
+State Natural Area is included in visits to Patagonia Lake. The park received 237,284 visits in 2025,
+67% of which were non-local (from over 50 miles away). The average party size was 6.1 for local
+parties and 5.1 for non-local parties. Table 21 presents the estimated spending patterns for non-
+local and local visitors to Patagonia Lake State Park.
+
+Table 21. Patagonia Lake State Park Visitor Spending Patterns, 2025
+
+                                                     Percent of Parties with     Average Amount per
+ Expenditure Category
+                                                         Expenditures            Party with Expenses
+                                                      Non-Local         Local     Non-Local       Local
+ Admission, recreation, & entertainment fees                56%          67%            $40        $44
+ Camping fees & charges                                     37%          21%           $180       $164
+ Lodging                                                     7%           3%           $490       $456
+ Groceries                                                  56%          57%           $101       $118
+ Food & beverage                                            37%          40%            $83       $120
+ Retail shopping                                            27%          21%            $51        $81
+ Auto expenses                                              54%          53%            $75        $60
+ Any other expenses                                          6%           6%           $220        $42
+
+
+
+
+Picacho Peak State Park
+Picacho Peak State Park, located in Pinal County, opened in 1968 and was established to conserve
+an area of geological, botanical, and historic signiﬁcance. In addition to its iconic trail to the top of
+the peak, the park offers camping and wildlife viewing to visitors. The park received 96,222 visits in
+2025, of which 72% were non-local (from over 50 miles away). The average party size was 3.5 for
+local parties and 2.7 for non-local parties. Table 22 presents the estimated spending patterns for
+non-local and local visitors to Picacho Peak State Park.
+
+Table 22. Picacho Peak State Park Visitor Spending Patterns, 2025
+
+                                                     Percent of Parties with     Average Amount per
+ Expenditure Category
+                                                         Expenditures            Party with Expenses
+                                                      Non-Local         Local     Non-Local       Local
+ Admission, recreation, & entertainment fees                39%          61%            $48        $26
+ Camping fees & charges                                     57%          39%           $122       $101
+ Lodging                                                     7%           0%           $331        N/A
+ Groceries                                                  35%          30%            $89        $98
+ Food & beverage                                            39%          26%            $78        $54
+ Retail shopping                                            32%          14%            $81        $68
+ Auto expenses                                              51%          39%           $101        $50
+ Any other expenses                                          7%           3%            $97        $18
+
+
+
+                                                                                                       26
+Red Rock State Park
+Opened in 1991 in Yavapai County, Red Rock State Park was established to preserve public access
+to Oak Creek’s riparian corridor. The park offers wildlife viewing and hiking to visitors. The park
+received 76,217 visits in 2025, 91% of which were non-local (from over 50 miles away). The average
+party size was 2.6 for local parties and 3.3 for non-local parties. Table 23 presents the estimated
+spending patterns for non-local and local visitors to Red Rock State Park.
+
+Table 23. Red Rock State Park Visitor Spending Patterns, 2025
+
+                                                     Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                         Expenditures           Party with Expenses
+                                                      Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                86%          72%           $57         $36
+ Camping fees & charges                                      7%           3%          $413      $1,300
+ Lodging                                                    51%           3%          $712      $1,300
+ Groceries                                                  46%          24%          $216        $142
+ Food & beverage                                            68%          62%          $277        $120
+ Retail shopping                                            43%          34%          $142        $369
+ Auto expenses                                              54%          48%          $135        $117
+ Any other expenses                                          5%           3%          $471         $12
+
+
+
+Riordan Mansion State Park
+Riordan Mansion State Historic Park, located in Coconino County, was opened to the public in
+1983. The mansion was built in 1904 by Charles Whittlesey, the same architect behind the El Tovar
+Hotel at the Grand Canyon. The park offers tours of the mansion and grounds, which includes
+artifacts, architecture, and Flagstaff history. The park received a total of 13,236 visits in 2025, of
+which 85% were non-local (from over 50 miles away). The average party size was 2.5 for local
+parties and 3.4 for non-local parties. Table 24 presents the estimated spending patterns for non-
+local and local visitors to Riordan Mansion State Historic Park.
+
+Table 24. Riordan Mansion State Historic Park Visitor Spending Patterns, 2025
+
+                                                     Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditure           Party with Expenses
+                                                      Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                89%          96%           $80        $42
+ Camping fees & charges                                      6%           0%          $244        N/A
+ Lodging                                                    54%           6%          $571       $305
+ Groceries                                                  39%          17%          $123       $119
+ Food & beverage                                            73%          51%          $230       $110
+ Retail shopping                                            51%          26%          $127        $68
+ Auto expenses                                              57%          23%           $99        $47
+ Any other expenses                                          3%           0%           $88        N/A
+
+
+
+
+                                                                                                     27
+River Island State Park
+River Island State Park is located in La Paz County on the shores of the Colorado River. The park
+offers river access for water-based recreation, camping, and hiking. The park received 27,722 visits
+in 2025, 94% of which were non-local (from over 50 miles away). The average party size was 2.9 for
+local parties and 3.6 for non-local parties. Table 25 presents the estimated spending patterns for
+non-local and local visitors to River Island State Park.
+
+Table 25. River Island State Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                 22%          31%          $126        $80
+ Camping fees & charges                                      81%          62%          $165       $123
+ Lodging                                                      4%           0%          $343        N/A
+ Groceries                                                   63%          46%          $159       $156
+ Food & beverage                                             57%          54%          $145        $86
+ Retail shopping                                             30%          15%           $94        $30
+ Auto expenses                                               70%          54%          $123        $86
+ Any other expenses                                           8%           0%          $351        N/A
+
+
+
+
+Rockin’ River Ranch State Park
+Rockin’ River Ranch State Park is a former ranch that now offers day-use outdoor recreation
+activities around the conﬂuence of West Clear Creek and the Verde River. The park ﬁrst opened to
+visitors in 2024 and received a total of 5,672 visits in 2025, of which 50% were non-local (from over
+50 miles away). The average party size was 2.3 for local parties and 2.6 for non-local parties. Table
+26 presents the estimated spending patterns for non-local and local visitors to Rockin River Ranch
+State Park.
+
+Table 26. Rockin’ River Ranch State Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local    Non-Local       Local
+ Admission, recreation, & entertainment fees                 77%          68%           $31        $27
+ Camping fees & charges                                       9%           1%          $460        $50
+ Lodging                                                     13%           0%          $547        N/A
+ Groceries                                                   29%          24%          $109        $61
+ Food & beverage                                             44%          44%          $108        $55
+ Retail shopping                                             29%           8%           $85        $68
+ Auto expenses                                               53%          42%           $65        $35
+ Any other expenses                                           4%           3%           $57        $13
+
+
+
+
+                                                                                                     28
+Roper Lake State Park
+Roper Lake State Park, of which Dankworth Pond is a sub-unit, offers water-based recreation and
+camping to visitors near the Safford area in Graham County. The park received 58,639 visits in 2025,
+of which 72% were non-local (from over 50 miles away). The average party size was 4.7 for local
+visitors and 3.8 for non-local visitors. Table 27 presents the estimated spending patterns for non-
+local and local visitors to Roper Lake State Park.
+
+Table 27. Roper Lake State Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local   Non-Local        Local
+ Admission, recreation, & entertainment fees                 35%          71%          $56         $35
+ Camping fees & charges                                      65%          15%         $172         $94
+ Lodging                                                     12%           3%         $280        $160
+ Groceries                                                   62%          52%         $108         $74
+ Food & beverage                                             47%          27%          $80         $43
+ Retail shopping                                             29%          10%          $56         $45
+ Auto expenses                                               61%          39%          $94         $55
+ Any other expenses                                           9%           6%          $90         $95
+
+
+
+
+Slide Rock State Park
+Slide Rock State Park is a widely popular recreation site located in Oak Creek Canyon in Coconino
+County and is known for its natural beauty and water-based recreation opportunities. The park
+offers swimming, ﬁshing, hiking, and other nature-based activities. The park received 435,086 visits
+in 2025, of which 96% were non-local (from over 50 miles away). The average party size was 3.6 for
+local parties and 4.5 for non-local parties. Table 28 presents the estimated spending patterns for
+non-local and local visitors to Slide Rock State Park.
+
+Table 28. Slide Rock State Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with    Average Amount per
+ Expenditure Category
+                                                          Expenditures           Party with Expenses
+                                                       Non-Local         Local   Non-Local        Local
+ Admission, recreation, & entertainment fees                 89%         100%          $56          $38
+ Camping fees & charges                                       7%          13%         $129         $113
+ Lodging                                                     38%           6%         $538       $1,000
+ Groceries                                                   42%          50%         $148          $90
+ Food & beverage                                             61%          25%         $175          $85
+ Retail shopping                                             35%          31%         $166         $154
+ Auto expenses                                               51%          50%         $102          $43
+ Any other expenses                                           4%           0%         $274          N/A
+
+
+
+
+                                                                                                     29
+Tombstone Courthouse State Historic Park
+Tombstone Courthouse State Historic Park preserves a historic building built in 1882. The structure
+originally served as the Cochise County Courthouse during the time when Tombstone was the
+county seat. Opened in 1959, the state park was the state’s ﬁrst operating state park. The park
+offers a museum with exhibits for visitors. The park received 30,926 visits in 2025, of which 93%
+were non-local (from over 50 miles away). The average party size was 3.7 for local parties and 3.2
+for non-local parties. Table 29 presents the estimated spending patterns for non-local and local
+visitors to Tombstone Courthouse State Historic Park.
+
+Table 29. Tombstone Courthouse State Historic Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with        Average Amount per
+ Expenditure Category
+                                                          Expenditures               Party with Expenses
+                                                       Non-Local         Local       Non-Local        Local
+ Admission, recreation, & entertainment fees                 88%          90%              $60         $43
+ Camping fees & charges                                      11%           0%             $204         N/A
+ Lodging                                                     40%          10%             $352        $185
+ Groceries                                                   22%          10%              $86         $75
+ Food & beverage                                             70%          62%             $129         $70
+ Retail shopping                                             59%          62%             $113         $76
+ Auto expenses                                               46%          33%             $107         $61
+ Any other expenses                                           3%           5%             $169         $10
+
+
+
+
+Tonto Natural Bridge State Park
+Tonto Natural Bridge State Park, located in Gila County, opened in 1991 and its key features are a
+natural travertine bridge and historic lodge. The park received 128,762 visits in 2025, 94% of which
+were non-local (from over 50 miles away). The average party size was 3.7 for local parties and 3.5
+for non-local parties. Table 30 presents the estimated spending patterns for non-local and local
+visitors to Tonto Natural Bridge State Park.
+
+Table 30. Tonto Natural Bridge State Park Visitor Spending Patterns, 2025
+
+                                                      Percent of Parties with        Average Amount per
+ Expenditure Category
+                                                          Expenditures               Party with Expenses
+                                                       Non-Local         Local       Non-Local        Local
+ Admission, recreation, & entertainment fees                 90%          93%              $30         $37
+ Camping fees & charges                                       6%           0%             $142         N/A
+ Lodging                                                     14%           7%             $465        $350
+ Groceries                                                   23%          18%              $99         $90
+ Food & beverage                                             50%          32%              $85         $76
+ Retail shopping                                             24%          29%              $52         $62
+ Auto expenses                                               42%          46%              $61         $43
+ Any other expenses                                           2%           4%             $110         $20
+
+
+
+                                                                                                         30
+Tubac Presidio State Historic Park
+Tubac Presidio State Historic Park was established to preserve the ruins of the San Ignacio de
+Tubac presidio, the oldest Spanish presidio in Arizona, constructed in 1752. The park is located in
+Santa Cruz County and offers museum exhibits, gardens, trails, and day use areas. The park
+received 11,420 visits in 2025, of which 71% were non-local (from over 50 miles away). The average
+party size was 2.6 for both local and non-local parties. Table 31 presents the estimated spending
+patterns for non-local and local visitors to Tubac Presidio State Historic Park.
+
+Table 31. Tubac Presidio State Historic Park Visitor Spending Patterns, 2025
+
+                                                       Percent of Parties with          Average Amount per
+ Expenditure Category
+                                                           Expenditures                 Party with Expenses
+                                                        Non-Local         Local         Non-Local        Local
+ Admission, recreation, & entertainment fees                  78%          79%                $39         $16
+ Camping fees & charges                                        3%           0%               $425         N/A
+ Lodging                                                      33%           0%               $508         N/A
+ Groceries                                                    23%           9%               $106         $85
+ Food & beverage                                              68%          50%               $141         $68
+ Retail shopping                                              51%          29%                $83         $51
+ Auto expenses                                                44%          21%               $118         $38
+ Any other expenses                                            3%           6%                $88        $475
+
+
+
+
+Yuma Territorial Prison State Historic Park
+Yuma Territorial Prison State Historic Park is dedicated to the preservation of the Yuma Territorial
+Prison, constructed in 1876. The park is located in Yuma County and includes a museum in
+addition to the prison facility. The park received 53,094 visits in 2025, of which 83% were non-local
+(from over 50 miles away). The average party size was 3.5 for local parties and 3.1 for non-local
+parties. Table 32 presents the estimated spending patterns for non-local and local visitors to Yuma
+Territorial Prison State Historic Park.
+
+Table 32. Yuma Territorial Prison State Historic Park Visitor Spending Patterns, 2025
+
+                                                       Percent of Parties with          Average Amount per
+ Expenditure Category
+                                                           Expenditures                 Party with Expenses
+                                                        Non-Local         Local         Non-Local        Local
+ Admission, recreation, & entertainment fees                  90%          89%                $46         $29
+ Camping fees & charges                                        7%           7%               $308         $50
+ Lodging                                                      32%           7%               $287        $750
+ Groceries                                                    27%          21%               $193        $162
+ Food & beverage                                              51%          36%               $106         $97
+ Retail shopping                                              27%          25%                $85         $75
+ Auto expenses                                                47%          36%                $86         $40
+ Any other expenses                                            1%           0%                $24         N/A
+
+
+
+                                                                                                            31
+County Economic Impact Analysis Results
+The following section presents estimated economic impacts of state park non-local visitor
+spending at the county level in Arizona. This analysis measures the net new visitor spending that
+non-local visitors bring into a county economy when visiting state parks, including the regional
+multiplier effects that result from that spending circulating the local economy. Non-local visitors
+are deﬁned as those who live outside the county where the state park is located, and those whose
+zip code falls outside a 50-mile radius of the park. Local visitors are excluded from the analysis
+because, had they not spent their income on activities related to a local state park visit, they would
+likely have spent it on something else within the same local economy.
+
+
+
+
+                                                                                                    32
+Apache County
+Table 33 presents estimated non-local visitor spending and county economic impacts in Apache
+County, which includes Lyman Lake State Park.
+
+Table 33. Apache County Non-Local Visitor Spending Economic Impact Estimates
+
+ Impact                                                                    Lyman Lake        County Total
+ Non-Local Visitor Spending
+ Admission, recreation, & entertainment fees                                    $152,000           $152,000
+ Camping fees & charges                                                         $676,000           $676,000
+ Lodging                                                                        $183,000           $183,000
+ Groceries                                                                      $352,000           $352,000
+ Food & beverage                                                                $179,000           $179,000
+ Retail shopping                                                                $109,000           $109,000
+ Auto expenses                                                                  $342,000           $342,000
+ Any other expenses                                                              $52,000            $52,000
+ County Economic Impacts
+ Sales (Output)
+ Direct                                                                        $2,047,000        $2,047,000
+ Indirect                                                                        $295,000          $295,000
+ Induced                                                                         $100,000          $100,000
+ TOTAL                                                                         $2,441,000        $2,441,000
+ Value Added (Gross Regional Product)
+ Direct                                                                         $756,000           $756,000
+ Indirect                                                                       $127,000           $127,000
+ Induced                                                                         $61,000            $61,000
+ TOTAL                                                                          $944,000           $944,000
+ Labor Income
+ Direct                                                                         $397,000           $397,000
+ Indirect                                                                        $59,000            $59,000
+ Induced                                                                         $20,000            $20,000
+ TOTAL                                                                          $477,000           $477,000
+ Jobs
+ Direct                                                                                 14                  14
+ Indirect                                                                                2                   2
+ Induced                                                                                 0                   0
+ TOTAL                                                                                  16                  16
+ Tax Impacts
+ Federal Government                                                             $150,000           $150,000
+ State & Local Government                                                       $173,000           $173,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                            33
+Cochise County
+Table 34 presents estimated non-local visitor spending and county economic impacts in Cochise
+County, which includes Kartchner Caverns State Park and Tombstone Courthouse State Historic
+Park.
+
+Table 34. Cochise County Non-Local Visitor Spending Economic Impact Estimates
+
+                                                            Kartchner      Tombstone
+ Impact                                                                                   County Total
+                                                             Caverns       Courthouse
+ Non-Local Visitor Spending
+ Admission, recreation, & entertainment fees                 $2,052,000        $467,000       $2,518,000
+ Camping fees & charges                                      $1,730,000        $194,000       $1,923,000
+ Lodging                                                     $2,215,000      $1,253,000       $3,468,000
+ Groceries                                                   $1,300,000        $170,000       $1,470,000
+ Food & beverage                                             $1,703,000        $802,000       $2,505,000
+ Retail shopping                                               $944,000        $596,000       $1,539,000
+ Auto expenses                                               $1,476,000        $437,000       $1,913,000
+ Any other expenses                                            $691,000         $45,000         $736,000
+ County Economic Impacts
+ Sales (Output)
+ Direct                                                     $12,109,000      $3,964,000      $16,073,000
+ Indirect                                                    $2,299,000        $722,000       $3,021,000
+ Induced                                                     $1,528,000        $521,000       $2,048,000
+ TOTAL                                                      $15,936,000      $5,207,000      $21,143,000
+ Value Added (Gross Regional Product)
+ Direct                                                      $5,046,000      $1,745,000       $6,791,000
+ Indirect                                                    $1,105,000        $353,000       $1,458,000
+ Induced                                                       $932,000        $318,000       $1,250,000
+ TOTAL                                                       $7,083,000      $2,415,000       $9,499,000
+ Labor Income
+ Direct                                                      $2,880,000        $992,000       $3,873,000
+ Indirect                                                      $716,000        $230,000         $946,000
+ Induced                                                       $386,000        $132,000         $518,000
+ TOTAL                                                       $3,982,000      $1,354,000       $5,336,000
+ Jobs
+ Direct                                                               90            28               119
+ Indirect                                                             12             4                16
+ Induced                                                               7             2                10
+ TOTAL                                                               110            35               145
+ Tax Impacts
+ Federal Government                                            $993,000       $337,000        $1,329,000
+ State & Local Government                                    $1,184,000       $400,000        $1,584,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                   34
+Coconino County
+Table 35 presents estimated non-local visitor spending and county economic impacts in Coconino
+County, which includes Riordan Mansion State Historic Park and Slide Rock State Park.
+
+Table 35. Coconino County Non-Local Visitor Spending Economic Impact Estimates
+
+                                                      Riordan
+ Impact                                                                    Slide Rock     County Total
+                                                      Mansion
+ Non-Local Visitor Spending
+ Admission, recreation, & entertainment fees             $239,000            $4,686,000       $4,925,000
+ Camping fees & charges                                   $50,000              $797,000         $847,000
+ Lodging                                               $1,031,000           $18,963,000      $19,994,000
+ Groceries                                               $159,000            $5,763,000       $5,922,000
+ Food & beverage                                         $555,000           $10,019,000      $10,574,000
+ Retail shopping                                         $215,000            $5,406,000       $5,621,000
+ Auto expenses                                           $188,000            $4,787,000       $4,975,000
+ Any other expenses                                        $8,000            $1,045,000       $1,053,000
+ County Economic Impacts
+ Sales (Output)
+ Direct                                                $2,445,000           $51,467,000      $53,912,000
+ Indirect                                                $416,000            $8,011,000       $8,427,000
+ Induced                                                 $431,000            $8,408,000       $8,838,000
+ TOTAL                                                 $3,292,000           $67,885,000      $71,177,000
+ Value Added (Gross Regional Product)
+ Direct                                                $1,285,000           $25,054,000      $26,339,000
+ Indirect                                                $201,000            $3,856,000       $4,057,000
+ Induced                                                 $271,000            $5,300,000       $5,572,000
+ TOTAL                                                 $1,758,000           $34,211,000      $35,968,000
+ Labor Income
+ Direct                                                  $727,000           $14,232,000      $14,959,000
+ Indirect                                                $125,000            $2,401,000       $2,527,000
+ Induced                                                 $123,000            $2,397,000       $2,519,000
+ TOTAL                                                   $975,000           $19,030,000      $20,005,000
+ Jobs
+ Direct                                                         15                  302              318
+ Indirect                                                        2                   44               47
+ Induced                                                         2                   40               43
+ TOTAL                                                          20                  387              407
+ Tax Impacts
+ Federal Government                                      $233,000            $4,535,000       $4,768,000
+ State & Local Government                                $238,000            $4,669,000       $4,907,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                         35
+Gila County
+Table 36 presents estimated non-local visitor spending and county economic impacts in Gila
+County, which includes Tonto Natural Bridge State Park.
+
+Table 36. Gila County Non-Local Visitor Spending Economic Impact Estimates
+
+ Impact                                                     Tonto Natural Bridge        County Total
+ Non-Local Visitor Spending
+ Admission, recreation, & entertainment fees                                 $940,000          $940,000
+ Camping fees & charges                                                      $292,000          $292,000
+ Lodging                                                                   $2,187,000        $2,187,000
+ Groceries                                                                   $775,000          $775,000
+ Food & beverage                                                           $1,479,000        $1,479,000
+ Retail shopping                                                             $431,000          $431,000
+ Auto expenses                                                               $892,000          $892,000
+ Any other expenses                                                           $64,000           $64,000
+ County Economic Impacts
+ Sales (Output)
+ Direct                                                                    $7,060,000        $7,060,000
+ Indirect                                                                    $981,000          $981,000
+ Induced                                                                     $606,000          $606,000
+ TOTAL                                                                     $8,647,000        $8,647,000
+ Value Added (Gross Regional Product)
+ Direct                                                                    $3,081,000        $3,081,000
+ Indirect                                                                    $356,000          $356,000
+ Induced                                                                     $357,000          $357,000
+ TOTAL                                                                     $3,795,000        $3,795,000
+ Labor Income
+ Direct                                                                    $1,737,000        $1,737,000
+ Indirect                                                                    $210,000          $210,000
+ Induced                                                                     $123,000          $123,000
+ TOTAL                                                                     $2,070,000        $2,070,000
+ Jobs
+ Direct                                                                           52                   52
+ Indirect                                                                          6                    6
+ Induced                                                                           3                    3
+ TOTAL                                                                            60                   60
+ Tax Impacts
+ Federal Government                                                         $512,000           $512,000
+ State & Local Government                                                   $683,000           $683,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                       36
+Graham County
+Table 37 presents estimated non-local visitor spending and county economic impacts in Graham
+County, which includes Roper Lake State Park (including Dankworth Pond State Park).
+
+Table 37. Graham County Non-Local Visitor Spending Economic Impact Estimates
+
+ Impact                                                              Roper Lake         County Total
+ Non-Local Visitor Spending
+ Admission, recreation, & entertainment fees                                 $215,000          $215,000
+ Camping fees & charges                                                    $1,243,000        $1,243,000
+ Lodging                                                                     $381,000          $381,000
+ Groceries                                                                   $735,000          $735,000
+ Food & beverage                                                             $419,000          $419,000
+ Retail shopping                                                             $182,000          $182,000
+ Auto expenses                                                               $633,000          $633,000
+ Any other expenses                                                           $85,000           $85,000
+ County Economic Impacts
+ Sales (Output)
+ Direct                                                                    $3,893,000        $3,893,000
+ Indirect                                                                    $536,000          $536,000
+ Induced                                                                     $303,000          $303,000
+ TOTAL                                                                     $4,732,000        $4,732,000
+ Value Added (Gross Regional Product)
+ Direct                                                                    $1,320,000        $1,320,000
+ Indirect                                                                    $251,000          $251,000
+ Induced                                                                     $187,000          $187,000
+ TOTAL                                                                     $1,758,000        $1,758,000
+ Labor Income
+ Direct                                                                     $662,000           $662,000
+ Indirect                                                                   $145,000           $145,000
+ Induced                                                                     $72,000            $72,000
+ TOTAL                                                                      $878,000           $878,000
+ Jobs
+ Direct                                                                           28                   28
+ Indirect                                                                          3                    3
+ Induced                                                                           1                    1
+ TOTAL                                                                            33                   33
+ Tax Impacts
+ Federal Government                                                         $234,000           $234,000
+ State & Local Government                                                   $366,000           $366,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                       37
+La Paz County
+Table 38 presents estimated non-local visitor spending and county economic impacts in La Paz
+County, which includes Alamo Lake State Park, Buckskin Mountain State Park, and River Island
+State Park.
+
+Table 38. La Paz County Non-Local Visitor Spending Economic Impact Estimates
+
+                                                                   Buckskin        River
+ Impact                                         Alamo Lake                                      County Total
+                                                                   Mountain       Island
+ Non-Local Visitor Spending
+ Admission, recreation, & entertainment fees        $300,000          $347,000    $206,000          $854,000
+ Camping fees & charges                           $2,778,000        $2,300,000    $987,000        $6,065,000
+ Lodging                                            $320,000          $274,000    $101,000          $695,000
+ Groceries                                        $1,030,000        $1,514,000    $738,000        $3,282,000
+ Food & beverage                                    $582,000        $1,051,000    $610,000        $2,243,000
+ Retail shopping                                    $555,000          $389,000    $209,000        $1,154,000
+ Auto expenses                                    $1,510,000        $1,319,000    $632,000        $3,462,000
+ Any other expenses                                 $199,000          $203,000    $196,000          $597,000
+ County Economic Impacts
+ Sales (Output)
+ Direct                                           $7,275,000        $7,398,000   $3,680,000      $18,352,000
+ Indirect                                           $538,000          $508,000     $249,000       $1,295,000
+ Induced                                            $508,000          $569,000     $291,000       $1,369,000
+ TOTAL                                            $8,322,000        $8,475,000   $4,219,000      $21,016,000
+ Value Added (Gross Regional Product)
+ Direct                                           $3,122,000        $3,277,000   $1,633,000       $8,031,000
+ Indirect                                           $239,000          $221,000     $105,000         $565,000
+ Induced                                            $337,000          $378,000     $193,000         $908,000
+ TOTAL                                            $3,699,000        $3,875,000   $1,931,000       $9,504,000
+ Labor Income
+ Direct                                           $2,022,000        $2,232,000   $1,136,000       $5,390,000
+ Indirect                                           $155,000          $140,000      $66,000         $361,000
+ Induced                                            $102,000          $114,000      $58,000         $274,000
+ TOTAL                                            $2,278,000        $2,486,000   $1,260,000       $6,024,000
+ Jobs
+ Direct                                                    35              34              17            85
+ Indirect                                                   3               3               1             7
+ Induced                                                    2               2               1             4
+ TOTAL                                                     39              38              19            97
+ Tax Impacts
+ Federal Government                                 $552,000          $589,000    $296,000        $1,436,000
+ State & Local Government                           $487,000          $469,000    $229,000        $1,185,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                        38
+Mohave County
+Table 39 presents estimated non-local visitor spending and county economic impacts in Mohave
+County, which includes Cattail Cove State Park and Lake Havasu State Park.
+
+Table 39. Mohave County Non-Local Visitor Spending Economic Impact Estimates
+
+ Impact                                             Cattail Cove           Lake Havasu     County Total
+ Non-Local Visitor Spending
+ Admission, recreation, & entertainment fees             $553,000             $2,292,000       $2,845,000
+ Camping fees & charges                                $2,448,000            $11,454,000      $13,902,000
+ Lodging                                                 $769,000             $9,106,000       $9,875,000
+ Groceries                                             $2,008,000            $10,759,000      $12,767,000
+ Food & beverage                                       $1,414,000            $11,972,000      $13,386,000
+ Retail shopping                                         $542,000             $4,750,000       $5,292,000
+ Auto expenses                                         $2,030,000             $9,017,000      $11,047,000
+ Any other expenses                                      $363,000             $2,749,000       $3,112,000
+ County Economic Impacts
+ Sales (Output)
+ Direct                                              $10,127,000             $62,098,000      $72,226,000
+ Indirect                                             $1,560,000              $9,764,000      $11,324,000
+ Induced                                              $1,138,000              $7,374,000       $8,512,000
+ TOTAL                                               $12,825,000             $79,236,000      $92,062,000
+ Value Added (Gross Regional Product)
+ Direct                                                $3,776,000            $24,607,000      $28,383,000
+ Indirect                                                $701,000             $4,409,000       $5,109,000
+ Induced                                                 $704,000             $4,561,000       $5,265,000
+ TOTAL                                                 $5,181,000            $33,577,000      $38,758,000
+ Labor Income
+ Direct                                                $2,135,000            $13,892,000      $16,027,000
+ Indirect                                                $412,000             $2,595,000       $3,007,000
+ Induced                                                 $281,000             $1,824,000       $2,105,000
+ TOTAL                                                 $2,829,000            $18,311,000      $21,140,000
+ Jobs
+ Direct                                                         59                  381              440
+ Indirect                                                        8                   52               61
+ Induced                                                         5                   33               39
+ TOTAL                                                          72                  467              539
+ Tax Impacts
+ Federal Government                                      $779,000             $5,029,000       $5,808,000
+ State & Local Government                                $810,000             $5,280,000       $6,090,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                          39
+Navajo County
+Table 40 presents estimated non-local visitor spending and county economic impacts in Navajo
+County, which includes Fool Hollow Recreation Area and Homolovi State Park.
+
+Table 40. Navajo County Non-Local Visitor Spending Economic Impact Estimates
+
+ Impact                                                Fool Hollow         Homolovi        County Total
+ Non-Local Visitor Spending
+ Admission, recreation, & entertainment fees                 $685,000          $141,000         $827,000
+ Camping fees & charges                                    $3,328,000          $738,000       $4,066,000
+ Lodging                                                   $1,175,000          $453,000       $1,628,000
+ Groceries                                                 $1,970,000          $404,000       $2,374,000
+ Food & beverage                                           $1,912,000          $564,000       $2,475,000
+ Retail shopping                                             $730,000          $414,000       $1,145,000
+ Auto expenses                                             $1,678,000          $765,000       $2,443,000
+ Any other expenses                                          $323,000           $32,000         $355,000
+ County Economic Impacts
+ Sales (Output)
+ Direct                                                   $11,801,000       $3,512,000       $15,313,000
+ Indirect                                                  $2,028,000         $543,000        $2,571,000
+ Induced                                                   $1,340,000         $362,000        $1,702,000
+ TOTAL                                                    $15,169,000       $4,417,000       $19,586,000
+ Value Added (Gross Regional Product)
+ Direct                                                    $4,851,000       $1,333,000        $6,183,000
+ Indirect                                                    $786,000         $211,000          $997,000
+ Induced                                                     $787,000         $212,000        $1,000,000
+ TOTAL                                                     $6,424,000       $1,756,000        $8,180,000
+ Labor Income
+ Direct                                                    $2,766,000          $747,000       $3,513,000
+ Indirect                                                    $491,000          $132,000         $623,000
+ Induced                                                     $313,000           $84,000         $397,000
+ TOTAL                                                     $3,570,000          $963,000       $4,533,000
+ Jobs
+ Direct                                                              74               20             94
+ Indirect                                                            12                3             15
+ Induced                                                              7                2              8
+ TOTAL                                                               93               25            118
+ Tax Impacts
+ Federal Government                                          $974,000          $264,000       $1,238,000
+ State & Local Government                                  $1,012,000          $288,000       $1,300,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                      40
+Pima County
+Table 41 presents estimated non-local visitor spending and county economic impacts in Pima
+County, which includes Catalina State Park.
+
+Table 41. Pima County Non-Local Visitor Spending Economic Impact Estimates
+
+ Impact                                                                Catalina          County Total
+ Non-Local Visitor Spending
+ Admission, recreation, & entertainment fees                                $1,795,000         $1,795,000
+ Camping fees & charges                                                     $5,758,000         $5,758,000
+ Lodging                                                                    $4,357,000         $4,357,000
+ Groceries                                                                  $4,834,000         $4,834,000
+ Food & beverage                                                            $4,635,000         $4,635,000
+ Retail shopping                                                            $1,995,000         $1,995,000
+ Auto expenses                                                              $3,926,000         $3,926,000
+ Any other expenses                                                         $1,110,000         $1,110,000
+ County Economic Impacts
+ Sales (Output)
+ Direct                                                                    $28,409,000        $28,409,000
+ Indirect                                                                   $5,328,000         $5,328,000
+ Induced                                                                    $5,179,000         $5,179,000
+ TOTAL                                                                     $38,916,000        $38,916,000
+ Value Added (Gross Regional Product)
+ Direct                                                                    $12,084,000        $12,084,000
+ Indirect                                                                   $2,637,000         $2,637,000
+ Induced                                                                    $3,155,000         $3,155,000
+ TOTAL                                                                     $17,876,000        $17,876,000
+ Labor Income
+ Direct                                                                     $6,755,000         $6,755,000
+ Indirect                                                                   $1,591,000         $1,591,000
+ Induced                                                                    $1,446,000         $1,446,000
+ TOTAL                                                                      $9,792,000         $9,792,000
+ Jobs
+ Direct                                                                           169                   169
+ Indirect                                                                          29                    29
+ Induced                                                                           26                    26
+ TOTAL                                                                            224                   224
+ Tax Impacts
+ Federal Government                                                         $2,421,000         $2,421,000
+ State & Local Government                                                   $2,416,000         $2,416,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                        41
+Pinal County
+Table 42 presents estimated non-local visitor spending and county economic impacts in Pinal
+County, which includes Lost Dutchman State Park, McFarland State Historic Park, Oracle State
+Park, and Picacho Peak State Park.
+
+Table 42. Pinal County Non-Local Visitor Spending Economic Impact Estimates
+
+                                                Lost                                        Picacho    County
+Impact                                                       McFarland         Oracle
+                                              Dutchman                                       Peak       Total
+Non-Local Visitor Spending
+Admission, recreation, & entertainment fees    $1,152,000         $6,000 $70,000 $478,000              $1,706,000
+Camping fees & charges                         $4,545,000        $48,000 $32,000 $1,794,000            $6,420,000
+Lodging                                        $2,385,000             $0 $237,000 $638,000             $3,261,000
+Groceries                                      $3,034,000        $56,000 $116,000 $815,000             $4,022,000
+Food & beverage                                $2,803,000        $24,000 $109,000 $796,000             $3,732,000
+Retail shopping                                $1,489,000        $10,000 $28,000 $657,000              $2,184,000
+Auto expenses                                  $2,749,000        $13,000 $101,000 $1,348,000           $4,210,000
+Any other expenses                               $530,000             $0 $62,000 $166,000                $758,000
+County Economic Impacts
+Sales (Output)
+Direct                                        $18,688,000       $157,000 $755,000 $6,691,000 $26,291,000
+Indirect                                       $1,965,000        $15,000 $80,000 $696,000 $2,756,000
+Induced                                        $1,064,000         $8,000 $46,000 $362,000 $1,480,000
+TOTAL                                         $21,718,000       $180,000 $880,000 $7,750,000 $30,527,000
+Value Added (Gross Regional Product)
+Direct                                         $7,426,000        $57,000 $321,000 $2,537,000 $10,341,000
+Indirect                                         $828,000         $6,000 $33,000 $293,000 $1,160,000
+Induced                                          $721,000         $6,000 $31,000 $245,000 $1,003,000
+TOTAL                                          $8,974,000        $69,000 $385,000 $3,075,000 $12,503,000
+Labor Income
+Direct                                         $4,165,000        $32,000 $179,000 $1,414,000 $5,790,000
+Indirect                                         $514,000         $4,000 $20,000 $182,000      $721,000
+Induced                                          $192,000         $1,000   $8,000    $65,000   $267,000
+TOTAL                                          $4,871,000        $38,000 $207,000 $1,662,000 $6,777,000
+Jobs
+Direct                                                 118                 1            5         41         165
+Indirect                                                11                 0            0          4          16
+Induced                                                  5                 0            0          2           6
+TOTAL                                                  134                 1            6         46         187
+Tax Impacts
+Federal Government                             $1,233,000        $10,000       $52,000      $423,000 $1,718,000
+State & Local Government                       $1,483,000        $11,000       $64,000      $521,000 $2,079,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                             42
+Santa Cruz County
+Table 43 presents estimated non-local visitor spending and county economic impacts in Santa Cruz
+County, which includes Patagonia Lake State Park and Tubac Presidio State Historic Park.
+
+Table 43. Santa Cruz County Non-Local Visitor Spending Economic Impact Estimates
+
+ Impact                                             Patagonia Lake         Tubac Presidio   County Total
+ Non-Local Visitor Spending
+ Admission, recreation, & entertainment fees               $693,000              $95,000          $789,000
+ Camping fees & charges                                  $2,072,000              $36,000        $2,108,000
+ Lodging                                                 $1,096,000             $518,000        $1,614,000
+ Groceries                                               $1,759,000              $76,000        $1,835,000
+ Food & beverage                                           $940,000             $299,000        $1,239,000
+ Retail shopping                                           $420,000             $130,000          $550,000
+ Auto expenses                                           $1,255,000             $160,000        $1,415,000
+ Any other expenses                                        $398,000               $7,000          $406,000
+ County Economic Impacts
+ Sales (Output)
+ Direct                                                  $8,632,000            $1,323,000       $9,955,000
+ Indirect                                                $1,484,000              $222,000       $1,706,000
+ Induced                                                   $746,000              $137,000         $883,000
+ TOTAL                                                  $10,862,000            $1,682,000      $12,544,000
+ Value Added (Gross Regional Product)
+ Direct                                                  $3,432,000             $640,000        $4,072,000
+ Indirect                                                  $630,000              $94,000          $724,000
+ Induced                                                   $443,000              $81,000          $525,000
+ TOTAL                                                   $4,505,000             $816,000        $5,321,000
+ Labor Income
+ Direct                                                  $1,997,000             $379,000        $2,376,000
+ Indirect                                                  $443,000              $65,000          $509,000
+ Induced                                                   $173,000              $32,000          $204,000
+ TOTAL                                                   $2,613,000             $476,000        $3,089,000
+ Jobs
+ Direct                                                           53                    9                  62
+ Indirect                                                         10                    1                  11
+ Induced                                                           4                    1                   5
+ TOTAL                                                            67                   11                  78
+ Tax Impacts
+ Federal Government                                        $648,000             $117,000         $764,000
+ State & Local Government                                  $731,000             $126,000         $857,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                       43
+Yavapai County
+Table 44 presents estimated non-local visitor spending and county economic impacts in Yavapai
+County, which includes Dead Horse Ranch State Park, Fort Verde State Historic Park, Granite
+Mountain Hotshots Memorial State Park, Jerome State Historic Park, Red Rock State Park, and
+Rockin’ River Ranch State Park.
+
+Table 44. Yavapai County Non-Local Visitor Spending Economic Impact Estimates
+
+                        Dead Horse             Granite                                        Rockin’
+Impact                             Fort Verde                     Jerome        Red Rock              County Total
+                           Ranch              Mountain                                         River
+Non-Local Visitor Spending
+Admission, recreation, &    $1,469,000    $128,000      $35,000     $662,000     $1,009,000    $26,000    $3,329,000
+entertainment fees
+Camping fees & charges      $4,421,000     $76,000     $19,000      $187,000       $571,000    $45,000    $5,319,000
+Lodging                     $1,966,000    $596,000    $518,000    $2,819,000     $7,448,000    $77,000   $13,424,000
+Groceries                   $2,840,000    $111,000     $97,000      $680,000     $2,044,000    $34,000    $5,807,000
+Food & beverage             $3,228,000    $281,000    $392,000    $1,803,000     $3,881,000    $52,000    $9,638,000
+Retail shopping             $1,170,000     $87,000    $203,000      $863,000     $1,255,000    $26,000    $3,604,000
+Auto expenses               $2,806,000    $147,000    $179,000      $582,000     $1,508,000    $38,000    $5,259,000
+Any other expenses            $543,000     $23,000     $51,000      $121,000       $496,000     $2,000    $1,236,000
+County Economic Impacts
+Sales (Output)
+Direct                     $18,444,000   $1,448,000 $1,493,000 $7,718,000 $18,213,000 $300,000           $47,616,000
+Indirect                    $3,049,000     $255,000 $223,000 $1,286,000 $3,020,000 $50,000                $7,883,000
+Induced                     $2,434,000     $214,000 $206,000 $1,118,000 $2,633,000 $41,000                $6,645,000
+TOTAL                      $23,928,000   $1,916,000 $1,923,000 $10,122,000 $23,865,000 $391,000          $62,144,000
+Value Added (Gross Regional Product )
+Direct                      $7,808,000    $715,000    $682,000    $3,719,000 $8,821,000 $136,000         $21,881,000
+Indirect                    $1,401,000    $117,000    $103,000      $589,000 $1,393,000 $23,000           $3,626,000
+Induced                     $1,501,000    $132,000    $127,000      $689,000 $1,623,000 $25,000           $4,097,000
+TOTAL                      $10,709,000    $965,000    $912,000    $4,997,000 $11,838,000 $185,000        $29,605,000
+Labor Income
+Direct                      $4,474,000    $394,000    $386,000    $2,081,000     $4,889,000 $76,000      $12,301,000
+Indirect                      $907,000     $77,000     $67,000      $383,000       $911,000 $15,000       $2,359,000
+Induced                       $635,000     $56,000     $54,000      $292,000       $687,000 $11,000       $1,734,000
+TOTAL                       $6,016,000    $527,000    $506,000    $2,756,000     $6,487,000 $102,000     $16,394,000
+Jobs
+Direct                             114           10           9            51          118           2            304
+Indirect                            18            2           1             8           18           0             47
+Induced                             13            1           1             6           14           0             34
+TOTAL                              144           12          12            65          149           2            385
+Tax Impacts
+Federal Government          $1,568,000     $138,000 $131,000         $718,000    $1,691,000    $27,000    $4,273,000
+State & Local Government    $1,541,000     $143,000 $133,000         $734,000    $1,743,000    $27,000    $4,321,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                             44
+Yuma County
+Table 45 presents estimated non-local visitor spending and county economic impacts in Yuma
+County, which includes Colorado River State Historic Park and Yuma Territorial Prison State Historic
+Park.
+
+Table 45. Yuma County Non-Local Visitor Spending Economic Impact Estimates
+
+                                                                           Yuma Territorial
+ Impact                                             Colorado River                            County Total
+                                                                              Prison
+ Non-Local Visitor Spending
+ Admission, recreation, & entertainment fees               $187,000               $583,000         $770,000
+ Camping fees & charges                                    $170,000               $321,000         $491,000
+ Lodging                                                   $872,000             $1,290,000       $2,162,000
+ Groceries                                                 $306,000               $744,000       $1,050,000
+ Food & beverage                                           $472,000               $777,000       $1,249,000
+ Retail shopping                                           $194,000               $327,000         $521,000
+ Auto expenses                                             $263,000               $571,000         $834,000
+ Any other expenses                                        $130,000                 $3,000         $133,000
+ County Economic Impacts
+ Sales (Output)
+ Direct                                                  $2,595,000             $4,615,000       $7,209,000
+ Indirect                                                  $425,000               $742,000       $1,167,000
+ Induced                                                   $387,000               $665,000       $1,052,000
+ TOTAL                                                   $3,406,000             $6,021,000       $9,428,000
+ Value Added (Gross Regional Product)
+ Direct                                                  $1,177,000             $2,043,000       $3,221,000
+ Indirect                                                  $209,000               $361,000         $570,000
+ Induced                                                   $242,000               $417,000         $659,000
+ TOTAL                                                   $1,629,000             $2,821,000       $4,450,000
+ Labor Income
+ Direct                                                    $675,000             $1,163,000       $1,838,000
+ Indirect                                                  $137,000               $236,000         $372,000
+ Induced                                                   $106,000               $181,000         $287,000
+ TOTAL                                                     $917,000             $1,580,000       $2,497,000
+ Jobs
+ Direct                                                           17                    29               46
+ Indirect                                                          2                     4                7
+ Induced                                                           2                     3                5
+ TOTAL                                                            21                    37               58
+ Tax Impacts
+ Federal Government                                        $226,000               $391,000         $617,000
+ State & Local Government                                  $247,000               $425,000         $673,000
+                                    * Totals may not sum due to rounding
+
+
+
+
+                                                                                                         45
+State Economic Contribution Analysis Results
+While county-level economic impacts measure the effects of non-local visitor spending on regional
+economies, it may also be informative to consider all visitor spending associated with visitation to
+state parks. The following analyses include all visitor spending, whether by local or non-local
+visitors, and the economic multiplier effects of that spending on the state economy. While some of
+this visitor spending might have taken place regardless of state parks (for example, local visitor
+spending on food or gas), it provides a snapshot of economic activity associated with state park
+visitation.
+
+Table 46 presents these statewide results. An estimated total of $355 million in direct state park
+visitor spending in 2025 generated roughly $99 million in indirect business-to-business economic
+activity and $102 million in induced household-to-business transactions, supporting a total of
+roughly $555 million in statewide economic activity. This supported roughly $273 million in gross
+state product (value added), $151 million in labor income, and nearly 3,000 jobs statewide.
+
+Table 46. Statewide Visitor Spending Economic Contribution Estimates
+
+ Impact                   Employment         Labor Income           Value Added          Output
+ Direct                           2,050             $88,201,000           $156,378,000      $354,630,000
+ Indirect                           444             $31,592,000            $53,229,000       $98,679,000
+ Induced                            455             $30,788,000            $63,147,000      $101,781,000
+ Total                            2,948           $150,582,000            $272,754,000      $555,090,000
+                                    * Totals may not sum due to rounding
+
+In addition to these contributions, state and local tax revenues supported by this economic activity
+were $18 million and $14 million, respectively.
+
+
+
+
+                                                                                                     46
+Trends in Visitor Spending
+A comparison of economic impact and contribution analysis results over time reveals that overall
+visitor spending has generally increased, both in nominal terms and when adjusted for inﬂation.
+However, overall spending decreased slightly between ﬁscal years 2020 and 2025, due in part to a
+small drop in visitation during that period. On a per-visitor basis, inﬂation-adjusted non-local
+spending increased between FY2020 and 2025 (Table 47).
+
+Table 47. Comparison of Arizona State Park Visitor Spending Economic Impact & Contribution Estimates
+Across Study Years, FY2007 to Calendar Year 2025
+
+Measure                                                       FY2007       FY2014      FY2020      CY2025
+Parks                                                              27           27         34*          30
+Total Visits                                                2,298,155   2,294,420    2,971,844   2,847,021
+NOMINAL (REPORTED) VALUES                                     FY2007       FY2014      FY2020      CY2025
+Statewide Economic Impact (Output/Sales) (millions)           $266.4       $226.7       $377.0      $482.7
+Statewide Economic Contribution (Output/Sales) (millions)        N/A          N/A       $449.4      $555.1
+Direct Non-Local Visitor Spending (millions)                  $162.8       $209.7       $278.7      $308.4
+Direct Total Visitor Spending (millions)                         N/A          N/A       $332.1      $354.6
+Per Visitor Non-Local Spending                                $70.84       $90.58       $93.77     $144.91
+INFLATION-ADJUSTED VALUES (2025 USD)                          FY2007       FY2014      FY2020      CY2025
+Statewide Economic Impact (Output/Sales) (millions)           $416.0       $310.1       $471.5      $482.7
+Statewide Economic Contribution (Output/Sales) (millions)        N/A          N/A       $562.1      $555.1
+Direct Non-Local Visitor Spending (millions)                  $254.1       $286.8       $348.6      $308.4
+Direct Total Visitor Spending (millions)                         N/A          N/A       $415.4      $354.6
+Per Visitor Non-Local Spending                               $110.60      $123.90     $117.30      $144.91
+CHANGE FROM PREVIOUS STUDY                                              FY07-FY14 FY14-FY20 FY20-CY25
+Change in Total Non-Local Expenditures                                      12.8%       21.5%       -11.1%
+Change in Visits                                                            -0.2%       29.5%        -3.8%
+Change in Non-Local Expenditures per Visit                                 13.0%        -6.2%       24.2%
+* Some parks were not open during this time, and some parks were temporarily closed during the onset of the
+COVID-19 pandemic
+
+The methods used in this report are the same as those used in the FY2020 report (Duval et al.,
+2021). Prior reports calculated statewide economic impacts (AHRRC, 2009; AHRRC, 2014) using
+the sum of all non-local visitor spending, whereas the FY2020 and 2025 reports report a statewide
+economic contribution inclusive of all visitor spending, as well as county-level economic impacts
+of non-local visitor spending (Duval et al., 2021 and present report). For ease of comparison, both
+the FY2020 and 2025 reports provide an estimate equivalent to the statewide economic impact
+results from the FY2007 and FY2014 reports. These are presented in Table 47.
+
+
+
+
+                                                                                                        47
+References
+AHRRC (2009). The Economic Impact of Arizona State Parks: Executive Summary. Arizona
+Hospitality Research & Resource Center, Center for Business Outreach, The W.A. Franke College of
+Business, Northern Arizona University.
+
+AHRRC (2015). The Economic Impact of Arizona State Parks FY14. Arizona Hospitality Research &
+Resource Center, Center for Business Outreach, The W.A. Franke College of Business, Northern
+Arizona University. Retrieved from https://d2umhuunwbec1r.cloudfront.net/gallery/asp-
+archive/publications/downloads/EIS_Final_09-09-15.pdf
+
+Duval, D., Bickel, A., Frisvold, G. (2021). Economic Contributions & Impacts of Arizona’s State Parks
+(FY2020). University of Arizona Cooperative Extension, Department of Agricultural & Resource
+Economics. Retrieved from https://repository.arizona.edu/handle/10150/677044?show=full
+
+Duval, D. and Montanía, C. (2026). Arizona State Parks & Trails 2025 Visitor Survey Results.
+University of Arizona Cooperative Extension. Unpublished report for Arizona State Parks & Trails.
+
+IMPLAN Group, LLC (2026). 2024 IMPLAN Model and Data.
+
+NAU EPI (2026). 2025 Arizona State Park Visits. Economic Policy Institute, Northern Arizona
+University. Retrieved from https://in.nau.edu/economic-policy-institute/data/
+
+
+
+
+                                                                                                    48
+[This page intentionally left blank]
+
+
+
+
+                                       49
+50
+
